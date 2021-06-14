@@ -2,6 +2,6 @@
 Projeto pessoal para homenagear minha namorada
 
 <p align="center">
-    <img  src="image/amor.gif">
+    <img  src="imagem/amor.gif">
 </p>
 
